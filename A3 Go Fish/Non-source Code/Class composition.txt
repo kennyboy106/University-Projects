@@ -1,8 +1,0 @@
-Step 2: Class composition
-A deck object will contain all the cards in the deck. Each card object will be 
-an element in a card array that is inside of the deck class.
-Each player will have an a hand, which contains their array of cards and how many cards in their hand, 
-and they will have an integer for book.
-
-in the cards function, I need to have a function that will display the card
-
